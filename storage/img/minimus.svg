@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.818514303634174 50.93474535521453" width="51.818514303634174" height="50.93474535521453">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="51.818514303634174" height="50.93474535521453" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(10 10) rotate(0 15.909257151817087 15.467372677607266)"><path d="M0.42 0.1 L32.66 0.31 L30.84 30.17 L-0.05 30.6" stroke="none" stroke-width="0" fill="#fff"></path><path d="M0 0 C6.22 -0.11, 14.82 0.67, 31.82 0 M0 0 C7.11 -0.15, 14.25 -0.23, 31.82 0 M31.82 0 C31.9 8.66, 32.87 17.08, 31.82 30.93 M31.82 0 C32.25 7.69, 32.14 15.82, 31.82 30.93 M31.82 30.93 C23.7 31.97, 17.71 31.86, 0 30.93 M31.82 30.93 C24.43 31.22, 16.87 31.07, 0 30.93 M0 30.93 C0.34 22.57, -0.9 15.95, 0 0 M0 30.93 C-0.08 19.16, -0.32 6.93, 0 0" stroke="#fa5252" stroke-width="2" fill="none"></path></g><g stroke-linecap="round" transform="translate(22.042319577065882 16.40789130814761) rotate(0 7.512710385502032 7.512710385502032)"><path d="M0 0 C3.65 -0.58, 6.75 0.56, 15.03 0 M0 0 C3.97 -0.01, 8.28 -0.3, 15.03 0 M15.03 0 C14.51 4.14, 14.96 9.03, 15.03 15.03 M15.03 0 C15.3 5.54, 15.24 11.73, 15.03 15.03 M15.03 15.03 C12.53 14.61, 8.3 14.73, 0 15.03 M15.03 15.03 C9.71 14.91, 4.31 15.32, 0 15.03 M0 15.03 C0.48 10.55, 0.15 4.21, 0 0 M0 15.03 C0.09 10.86, -0.01 6.69, 0 0" stroke="#fa5252" stroke-width="2" fill="none"></path></g><g stroke-linecap="round" transform="translate(19.05940719382852 19.72235191182952) rotate(0 7.512710385502032 7.512710385502032)"><path d="M-0.98 -0.76 L14.97 -0.34 L14.43 14.72 L0.17 14.64" stroke="none" stroke-width="0" fill="#fff"></path><path d="M0 0 C3.88 0.47, 9.44 -0.28, 15.03 0 M0 0 C4.38 0.2, 8.51 0.02, 15.03 0 M15.03 0 C14.72 4.15, 15.09 9.05, 15.03 15.03 M15.03 0 C14.8 4.63, 15.17 8.48, 15.03 15.03 M15.03 15.03 C8.58 14.68, 2.69 15.57, 0 15.03 M15.03 15.03 C9.26 15.27, 4.08 15.22, 0 15.03 M0 15.03 C0.75 11.5, -0.44 7.68, 0 0 M0 15.03 C0.2 9.56, 0.36 4.14, 0 0" stroke="#fa5252" stroke-width="2" fill="none"></path></g></svg>
