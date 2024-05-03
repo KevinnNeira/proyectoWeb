@@ -6,9 +6,6 @@ body{
     display: flex;
     flex-direction: column;
 }
-.header{
-    background-color: #ff702a;
-}
 #quit{
     margin-left: 1vw;    
     float: right;
@@ -24,6 +21,8 @@ body{
     height: 30px;
 }
 .bar{
+    margin-left: 10%;
+    margin-right: 10%;
     display: flex;
     background-color: red;
 }
@@ -155,5 +154,104 @@ body{
     color:  white;
     margin: 0;
     font-size: 3vw;
+    font-family: 'Poppins', sans-serif;
+}
+.galery{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.items{
+    display: flex;
+    align-items: center;
+    width: 25vw;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1vw;
+    background-color: #ffefe8;
+}
+#imgfood{
+    margin-bottom: 1vh;
+    z-index: +1;
+    width: 11vw;
+    transition: 1s;
+}
+#imgfood:hover{
+    transform: scale(1.2);
+}
+#product{
+    color: black;
+    margin: 0;
+    margin-bottom: 0.5vh;
+    font-size: 1.5vh;
+    font-family: 'Poppins', sans-serif;
+}
+#descriptionfood{
+    color: black;
+    margin: 0;
+    margin-bottom: 0.5vh;
+    font-size: 1vh;
+    font-family: 'Poppins', sans-serif;
+}
+#price{
+    color:  #ff702a;
+    margin: 0;
+    margin-bottom: 0.5vh;
+    font-size: 1vh;
+    font-family: 'Poppins', sans-serif;
+}
+#star{
+    width: 3.5vh;
+    margin-left: 18.5vw;
+}
+.services{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#mintitleservices{
+    color: #ff702a;
+    margin: 0;
+    margin-top: 6vw;
+    font-size: 2vw;
+    font-family: 'Poppins', sans-serif;
+}
+.itemss{
+    display: flex;
+    align-items: center;
+    width: 30vw;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1vw;
+}
+#imgservices{
+    margin-bottom: 1vh;
+    z-index: +1;
+    width: 10vw;
+    transition: 1s;
+}
+#imgservices:hover{
+    transform: scale(1.2);
+}
+#descriptionservices{
+    color:  white;
+    margin: 0;
+    margin-bottom: 2vh;
+    font-size: 1vh;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+#productservices{
+    color: #ff702a;
+    margin: 0;
+    margin-bottom: 0.5vh;
+    font-size: 1.5vh;
     font-family: 'Poppins', sans-serif;
 }
